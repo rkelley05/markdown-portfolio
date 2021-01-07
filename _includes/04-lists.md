@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+A few of my favorite things:
+* Korean BBQ
+* Travelling
+* Learning languages
+* Solving problems
+* Exercising
